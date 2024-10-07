@@ -38,5 +38,6 @@
 ⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠀⠀⠀⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉
 
 ### 🕵️‍♂️ By day, I’m in stealth mode, but by night, I’m a soda-fueled vampire, thriving in the moonlight while the world sleeps! 🧛
+### 👊 I main Ryu in Smash Ultimate, bringing Hadoukens to the battlefield 💥, but my heart belongs to Sivir in League of Legends ✨
 
 # See you later alligator 🐊
