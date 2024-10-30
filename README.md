@@ -42,7 +42,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="160" />
 
 ### 👊 I main Ryu in Smash Ultimate, bringing Hadoukens to the battlefield 💥, A.K.I in SF6, weaving venomous traps to break down my opponents 🐍  I’m all in with gung-ho optimism as Vikala in Granblue Fantasy Versus Rising—alongside my sentient trap Dormouse, guiding us to Utopia 🐭! 
-### I channel my inner split persona as A.B.A in Guilty Gear Strive, wielding monstrous power with a twist of madness 💉, and slice through shadows with Phonon in Under Night In-Birth II Sys, commanding the sound of fear 🎶⚔. In Tekken 8, I stay swift and agile as Ling Xiaoyu, dancing through the chaos with finesse 🎋. 
+### I channel my inner split persona as A.B.A in Guilty Gear Strive, wielding monstrous power with a twist of madness 💉, and slice through shadows with Phonon in Under Night In-Birth II Sys, commanding the sound of fear 🎶. In Tekken 8, I stay swift and agile as Ling Xiaoyu, dancing through the chaos with finesse 🎋. 
 ## But my heart belongs to Sivir in League of Legends ✨
 
 <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100">  
