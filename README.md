@@ -37,14 +37,14 @@
 ⠀⠀⠈⢿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣶⣦⣀⣉⠁⠒⠶⢤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠲⢤⣄⣀⣀⣠⣤⣴⣿⣿⣿⣿
 ⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠀⠀⠀⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉
 
-### 🕵️‍♂️ By day, I’m in stealth mode, but by night, I’m a soda-fueled vampire, thriving in the moonlight while the world sleeps! 🧛 
+## Arrr, welcome aboard, matey! 🏴‍☠️ 
 
-<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="160" />
+#### Ahoy, brave soul who’s ventured into these treacherous waters! They call me Vincent—part-time coder, full-time adventurer on the high seas of code and caffeine. I sail under the proud flag of League of Legends, where my heart’s forever bound to the mighty lass, Sivir. She’s the Queen of my lanes, and I wouldn’t trade her for all the doubloons in the Seven Seas! ⚔️❤️
+#### When I’m not charting the battlefields of LoL, ye can find me honing my skills in versus fighting, where every duel is a clash for honor (and braggin' rights). I also enjoy conjuring up all manner of random coding sorcery, crafting little pieces o' magic just because I can. A tiny dreamer I be, always with my spyglass set on the next big idea.
+#### Oh, and did I mention I be learnin’ Chinese? Aye, expanding me language arsenal for new shores to explore!
 
-### 👊 I main Ryu in Smash Ultimate, bringing Hadoukens to the battlefield 💥, A.K.I in SF6, weaving venomous traps to break down my opponents 🐍  I’m all in with gung-ho optimism as Vikala in Granblue Fantasy Versus Rising—alongside my sentient trap Dormouse, guiding us to Utopia 🐭! 
-### I channel my inner split persona as A.B.A in Guilty Gear Strive, wielding monstrous power with a twist of madness 💉, and slice through shadows with Phonon in Under Night In-Birth II Sys, commanding the sound of fear 🎶. In Tekken 8, I stay swift and agile as Ling Xiaoyu, dancing through the chaos with finesse 🎋. 
-## But my heart belongs to Sivir in League of Legends ✨
+#### By day, I’m nowhere to be found—an elusive night-owl, prowling the darkness like a vampire, guzzling soda and feasting on nuggets of chicken, because every coder needs sustenance worthy of a pirate’s appetite. 🍗
 
-<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100">  
+### So join me on this grand journey—if ye dare! There’s code to crack, legends to forge, and plenty of mischief to be made. Arrr, savvy? 🏴‍☠️
 
-# See you later, alligator 🐊
+# Catch ye later, ye scaly sea gator! 🐊
