@@ -41,10 +41,11 @@
 
 #### Ahoy, brave soul who’s ventured into these treacherous waters! They call me Vincent—part-time coder, full-time adventurer on the high seas of code and caffeine. I sail under the proud flag of League of Legends, where my heart’s forever bound to the mighty lass, Sivir. She’s the Queen of my lanes, and I wouldn’t trade her for all the doubloons in the Seven Seas! ⚔️❤️
 #### When I’m not charting the battlefields of LoL, ye can find me honing my skills in versus fighting, where every duel is a clash for honor (and braggin' rights). I also enjoy conjuring up all manner of random coding sorcery, crafting little pieces o' magic just because I can. A tiny dreamer I be, always with my spyglass set on the next big idea.
+#### But there’s more to this pirate than the click o’ keys and the clash o’ blades—aye, I’m a poet, too. When the night grows still and the sea whispers secrets to the moon, I take to my quill and parchment, pourin’ my deepest thoughts onto paper soaked with the salt o’ my tears. Each word be a fragment o’ my soul, each verse a map to treasures buried deep within. 🌙🖋️
 #### Oh, and did I mention I be learnin’ Chinese? Aye, expanding me language arsenal for new shores to explore!
 
 #### By day, I’m nowhere to be found—an elusive night-owl, prowling the darkness like a vampire, guzzling soda and feasting on nuggets of chicken, because every coder needs sustenance worthy of a pirate’s appetite. 🍗
 
-### So join me on this grand journey—if ye dare! There’s code to crack, legends to forge, and plenty of mischief to be made. Arrr, savvy? 🏴‍☠️
+### So join me on this grand journey—if ye dare! There’s code to crack, legends to forge, verses to write, and plenty of mischief to be made. Arrr, savvy? 🏴‍☠️
 
 # Catch ye later, ye scaly sea gator! 🐊
