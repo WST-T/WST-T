@@ -1,5 +1,3 @@
-# ˚ . ❆ ┊ *˚ Welcome to my Winter Haven ˚ * ┊ ❆ . ˚ 
-
 ```
   /\_/\  *     /\_/\       *      /\_/\     *     /\_/\  
  ( o.o )      ( o.o )            ( o.o )         ( o.o ) 
@@ -17,97 +15,18 @@
 
 ## (づ｡◕‿‿◕｡)づ About Me
 
-> "I sleep by day, code and poetry by night"
+> "By the moon’s pale light, I craft verses and code, where shadows dance and thoughts unfold."
 
-I'm a developer who finds beauty in both logic and art. When I'm not immersed in code, you might find me:
+I'm a developer who walks the line between logic and artistry. When I'm not weaving code into existence, you may find me:
 
-- ✨ Writing poetry under the night sky
-- 🎮 Playing some amazing games
-- 📚 Exploring philosophical concepts that challenge the mind
-- 🀄 Learning Chinese characters one stroke at a time
-- ❄️ Enjoying the peaceful silence of winter snowfall
-- 🍵 Sipping tea (or soda!) while debugging
+- ☆彡 Penning verses beneath starlit skies
+- ⌨️ Immersed in digital realms of adventure
+- 〆 Contemplating the echoes of ancient philosophy
+- 己 Etching hanzi one stroke at a time
+- ❄ Reveling in the hushed whispers of winter’s breath
+- (´･ω･`) Nursing a cup of tea (or the ever-faithful soda) while taming errant bugs
 
-## ⭒༺ Tools of My Digital Craft ༻⭒
-
-```
-┌───────────────────────────────────┐
-│                                   │
-│   Backend                         │
-│   ───────                         │
-│                         *         │
-│   ☕ JavaScript (Deno/Bun)  ❄️    │
-│   🐹 Go                   ✧       │
-│   🐍 Python (FastAPI)     ❆       │
-│                       ✨           │
-└───────────────────────────────────┘
-┌───────────────────────────────────┐
-│                                   │
-│   Frontend               ❄️       │
-│   ────────                        │
-│                 *                 │
-│   🚀  Astro               ✧       │
-│   ⚛  React             ✨         │
-│   🧡  Svelte             ❆        │
-│                 *                 │
-└───────────────────────────────────┘
-┌───────────────────────────────────┐
-│                                   │
-│   Databases             ✨         │
-│   ─────────                       │
-│               ❄️                  │
-│   🐘 PostgreSQL         *          │
-│   🪳 CockroachDB                  │
-│   🔍 SQLite             ✧         │
-│   🐙 ScyllaDB           ❆         │
-│                                   │
-└───────────────────────────────────┘
-┌───────────────────────────────────┐
-│                       ❄️          │
-│   DevOps & Cloud                  │
-│   ─────────────        ✧          │
-│                                   │
-│   🐳 Docker             *          │
-│   ⎈ Kubernetes                    │
-│   🏗️ Terraform          ❆         │
-│   🔄 Ansible            ✨         │
-│   🔁 GitHub Actions                │
-│   ☁️ AWS                *          │
-│   🌩️ GCP                          │
-│                                   │
-└───────────────────────────────────┘
-```
-
-## ✧･ﾟ: * Whispers of a Night Wanderer * :･ﾟ✧
-
-```
-                     *     .--.
-                          / /  `
-         +               | |
-                '         \ \__,
-            *          +   '--'  *
-                   +   /\
-      +              .'  '.   *
-                 *  /======\      +
-                   ;:.  _   ;
-                   |:. (_)  |
-                   |:.  _   |
-         +         |:. (_)  |          *
-                   ;:.      ;
-                 .' \:.    / `.
-                / .-'':._.'`-. \
-                |/    /||\    \|
-          jgs _..--"""````"""--.._
-        _.-'``                    ``'-._
-      -'                                '-
-```
-
-> "The night is quiet, the code is flowing, and the chicken nuggets are warm."
-
-## ✿❀ Whisper to Me in the Dark ❀✿
-
-Let's chat about code architecture, database design, or exchange poetry!
-
-*"In the quiet hours of the night, when the world sleeps, code comes alive."*
+> "The night is deep, the mind is wandering, and the chicken nuggets are eternal."
 
 ## (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Happy Coding!
+> "Life would be a tragedy if it wasn't a comedy."
