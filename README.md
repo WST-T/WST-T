@@ -14,4 +14,17 @@
 
 ---
 
-<p align="center">✧･ﾟ: May your commits be clean and your deployments uneventful :･ﾟ✧</p>
+<p align="center">✧･ﾟ: (≧◡≦) ♡ See you later, alligator! Keep swimming strong till we meet again!  :･ﾟ✧</p>
+
+```
+                    .-._   _ _ _ _ _ _ _ _
+         .-''-.__.-'00  '-' ' ' ' ' ' ' ' '-.
+         '.___ '    .   .--_'-' '-' '-' _'-' '._
+          V: V 'vv-'   '_   '.       .'  _..' '.'.
+            '=.____.=_.--'   :_.__.__:_   '.   : :
+                    (((____.-'        '-.  /   : :
+                                      (((-'\ .' /
+                                    _____..'  .'
+                                   '-._____.-'
+
+```
