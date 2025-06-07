@@ -14,17 +14,11 @@
 
 ---
 
-<p align="center">✧･ﾟ: (≧◡≦) ♡ See you later, alligator! Keep swimming strong till we meet again!  :･ﾟ✧</p>
+<p align="center">✧･ﾟ: (⌐▨_▨) Slipping into the shadows... Keep your tail encrypted and your terminal glowing~ See you in the source code~ :･ﾟ✧</p>
 
 ```
-                    .-._   _ _ _ _ _ _ _ _
-         .-''-.__.-'00  '-' ' ' ' ' ' ' ' '-.
-         '.___ '    .   .--_'-' '-' '-' _'-' '._
-          V: V 'vv-'   '_   '.       .'  _..' '.'.
-            '=.____.=_.--'   :_.__.__:_   '.   : :
-                    (((____.-'        '-.  /   : :
-                                      (((-'\ .' /
-                                    _____..'  .'
-                                   '-._____.-'
-
+  _,-=._              /|_/|
+  `-.}   `=._,.-=-._.,  @ @._,
+     `._ _,-.   )      _,.-'
+        `    G.m-"^m`m'        
 ```
